@@ -36,6 +36,7 @@ const Orphanage: React.FC = () => {
   useEffect(() => {
     api.get(`orphanages/${params.id}`).then(response => {
       setOrphanage(response.data);
+      console.log(orphanage);
     });
   }, [params.id]);
 
