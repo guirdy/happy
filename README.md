@@ -1,4 +1,4 @@
-# Proffy
+# Happy
 
 Projeto desenvolvido durante a NLW #03 da [Rocketseat](https://rocketseat.com.br/). :rocket:
 
