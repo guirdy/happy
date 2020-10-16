@@ -28,7 +28,7 @@ Projeto desenvolvido durante a NLW #03 da [Rocketseat](https://rocketseat.com.br
 
 <h2 align=center> Resultado App Mobile :iphone:</h2> 
 <p align=center>
-  <img src="" >
+  <img src="https://github.com/gui-leandro/happy/blob/master/.github/happy-mobile.gif" >
 </p>
 
 # :fire: Tecnologias
